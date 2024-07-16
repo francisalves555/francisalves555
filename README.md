@@ -1,7 +1,7 @@
 ## Olá, me chamo Francis 👋
 
-## Sobre Mim
-- 🖥️ Sou um futuro desenvolvedor facinado por tecnologia. 
+## Sobre mim
+- 🖥️ Sou um futuro desenvolvedor fascinado por tecnologia. 
 - 📚 Atualmente, estou focando meus estudos em ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) e ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 - 🔎 Estou sempre buscando aprender coisas novas e oportunidade para entrar e crescer como dev.
 
